@@ -1,0 +1,31 @@
+{
+ "sku": {
+  "name": "A0",
+  "tier": "Free"
+ },
+ "identity": {
+  "principalId": "06cffcf5-d828-4e22-b684-d6129879e346",
+  "tenantId": "5d471751-9675-428d-917b-70f44f9630b0",
+  "type": "SystemAssigned"
+ },
+ "properties": {
+  "displayName": "Initiative - NHC_Policy_Prod_Inherit_Tags_fromRG_To_Resources",
+  "policyDefinitionId": "/subscriptions/96c7302e-efd5-4a2a-9789-73832fd98b7e/providers/Microsoft.Authorization/policySetDefinitions/3e69822ce8e64e0b98f19fe4",
+  "scope": "/subscriptions/96c7302e-efd5-4a2a-9789-73832fd98b7e",
+  "notScopes": [],
+  "parameters": {},
+  "metadata": {
+   "assignedBy": "Bharath Pendem",
+   "parameterScopes": {},
+   "createdBy": "1e7af422-d93f-4686-836f-cd235241316a",
+   "createdOn": "2022-09-30T10:33:06.6667235Z",
+   "updatedBy": null,
+   "updatedOn": null
+  },
+  "enforcementMode": "Default"
+ },
+ "id": "/subscriptions/96c7302e-efd5-4a2a-9789-73832fd98b7e/providers/Microsoft.Authorization/policyAssignments/5c591c96ddde4dc5847703ae",
+ "type": "Microsoft.Authorization/policyAssignments",
+ "name": "5c591c96ddde4dc5847703ae",
+ "location": "eastus"
+}
